@@ -1,0 +1,2 @@
+# MEM6287B00
+MEM6287B00 Assigments
